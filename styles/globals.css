@@ -18,11 +18,5 @@
 
 body {
   background-color: white;
-}
-
-@font-face {
-  font-family: "Qanelas Bold";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Qanelas Bold"), url("/public/QanelasBold.woff") format("woff");
+  font-family: "Syne", sans-serif;
 }
